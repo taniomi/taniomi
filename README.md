@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning python
 - 🏹 My goal is to create data science projects while learning new things
-- 📫 You can reach me through: taniomi@outlook.com
+- 📫 You can reach me through: taniomi@outlook.com.br
 
 <!---
 taniomi/taniomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
