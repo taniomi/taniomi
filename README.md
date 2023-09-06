@@ -1,4 +1,4 @@
-👋 Hi, I’m @taniomi
+### 👋 Hi, I’m @taniomi
 
 - 🌱 I’m currently learning python
 - 🏹 My goal is to create data science projects while learning new things
