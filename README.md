@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @taniomi
 
-- 🌱 I’m currently learning python,pandas and numpy
+- 🌱 I’m currently learning python, pandas and numpy
 - 🏹 My goal is to create data science projects and learn new things
 - 📫 You can reach me through: https://www.linkedin.com/in/milena-tanioka/
 
