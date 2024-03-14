@@ -1,8 +1,12 @@
 ### 👋 Hi, I’m @taniomi
 
+Glad to have you here!
+
 🌱 Learning
   - python
+  - pyspark
   - pandas
+  - databricks
   - SQL
   - statistics
 
