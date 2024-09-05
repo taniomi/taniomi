@@ -4,7 +4,6 @@ Glad to have you here!
 
 ### 🌱 Learning
   - python
-  - pyspark
   - pandas
   - databricks
   - SQL
