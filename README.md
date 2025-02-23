@@ -1,15 +1,14 @@
 ## 👋 Hi, I’m Milena!
 
-Glad to have you here!
+🎓 Graduating in Electrical Engineering in UTFPR
+🪨 Working as Junior Data Engineer at @atter-data
+🏅 Microsoft Certified • AI Fundamentals
 
-### 🌱 Learning
-  - python
-  - pandas
-  - databricks
-  - SQL
-  - statistics
+📚 Studying for DP-600
 
-#### 🗂️If you're interested in what I worked on, you can check out my [portfolio](https://taniomi.github.io/portfolio/)
+<!---
+🗂️ [Portfolio](https://taniomi.github.io/portfolio/)
+--->
 
 #### 📫 You can reach me through LinkedIn: [taniomi](https://www.linkedin.com/in/taniomi/)
 
