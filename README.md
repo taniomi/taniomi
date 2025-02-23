@@ -1,7 +1,9 @@
 ## 👋 Hi, I’m Milena!
 
 🎓 Graduating in Electrical Engineering in UTFPR
+
 🪨 Working as Junior Data Engineer at @atter-data
+
 🏅 Microsoft Certified • AI Fundamentals
 
 📚 Studying for DP-600
