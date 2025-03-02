@@ -4,7 +4,7 @@
 
 🪨 Working as Junior Data Engineer at @atter-data
 
-🏅 Microsoft Certified • AI Fundamentals
+🏅 Microsoft Certified • AI-900
 
 📚 Studying for DP-600
 
