@@ -4,9 +4,9 @@
 
 🪨 Working as Data Engineer at [atter-data](https://github.com/atter-data)
 
-🏅 Microsoft Certified • AI-900, AZ-900
+🏅 Microsoft Certified • AI-900, AZ-900, DP-900
 
-📚 Studying for DP-900 and DP-600
+📚 Studying for Databricks Associate Data Engineer
 
 <!---
 🗂️ [Portfolio](https://taniomi.github.io/portfolio/)
